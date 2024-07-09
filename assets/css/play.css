@@ -1,0 +1,11 @@
+html, body, main {
+    height: 100vh;
+}
+
+.vertical-text {
+    writing-mode: vertical-rl;
+}
+
+.vertical-icon {
+    transform: rotate(90deg);
+}
